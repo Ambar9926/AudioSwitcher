@@ -28,3 +28,6 @@ Grab AudioSwitcher.exe from the Releases page. No installation or .NET runtime n
 
 ## Credits
 Created by Joshua Underwood. Vibe coded with Claude Opus.
+
+## License
+MIT license. See LICENSE file for details.
